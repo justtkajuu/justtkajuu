@@ -1,83 +1,44 @@
-## Hi there 👋
+💫 Hi 👋, I'm Kajal Golghate
+**A passionate Frontend Developer || MERN Stack Learner from India**
 
-# 👩‍💻 Kajal Golghate – Frontend Developer
+Email Me 👉 ✉️ **kajalgolghate2004@gmailcom** For Collaboration/Project or Anything Else. 😊😊
 
-🎯 Passionate frontend developer with hands-on experience building responsive and interactive web applications using modern frontend technologies and animation libraries.
+- 🔭 **I’m currently working on:** Improving my MERN Stack skills & building real-world projects
+- 🌱 **I’m currently learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 👯 **I’m looking to collaborate on:** Frontend or Full-Stack Projects
+- 💬 **Ask me about:** Frontend Development, React.js, Tailwind CSS, GSAP Animations
+- 📫 **How to reach me:** kajalgolghate2004@gmail.com
+- ⚡ **Fun fact:** I love building creative UIs and learning new technologies 🚀
+  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kajal-golghate) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kajalgolghate2004@gmail.com) 
 
----
+<!-- Snake Game Repo View -->
 
-## 📬 Contact
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-- 📧 Email: kajalgolghate2004@gmail.com  
-- 📞 Phone: +91-9359584588  
-- 🔗 GitHub: [justtkajuu](https://github.com/justtkajuu)  
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-## 🎓 Education
 
-**Bachelor of Computer Application**  
-Shri Mathurdas Mohota College of Science  
-📍 Nagpur, MH  
-📅 May 2022 – June 2024  
-🎓 CGPA: 6.8
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=justtkajuu&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=justtkajuu&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justtkajuu&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=justtkajuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🧠 Skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Languages & Web:** HTML, CSS, JavaScript  
-- **Styling & Frameworks:** Tailwind CSS, Responsive Design, GSAP, ScrollTrigger  
-- **Frontend Libraries:** React.js  
-- **Tools & Platforms:** GitHub, VS Code, Netlify, Windows  
-- **Productivity Tools:** MS Word, General Computer Proficiency  
-
----
-
-## 💼 Projects
-
-### 📌 [Productivity Dashboard Web App](https://myproductivitydashboard.netlify.app)
-
-Built a multifunctional productivity dashboard using **HTML, CSS, JavaScript**, and **GSAP** animations.
-
-**Key Features:**
-- To-Do List, Daily Planner, Pomodoro Timer
-- Live Weather API and Motivational Quotes API
-- Theme Switcher
-- Persistent data via localStorage
-- Fully responsive layout with smooth UI transitions
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=justtkajuu&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=justtkajuu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📌 [Marketing Landing Page](https://github.com/justtkajuu/Marketing-Landing-Page)
-
-Created a compact, animation-focused landing page for **GSAP animation practice**.
-
-**Highlights:**
-- Scroll-triggered Hero and Feature section transitions
-- Built with HTML, CSS, and GSAP
-- Focused on animation logic (non-responsive design)
-
----
-
-## 📜 Certifications & Achievements
-
-- ✅ DOEACC / NIELIT ‘O’ Level (IT) – 2024  
-- ✅ Advanced Diploma in Computer Application (ADCA) – 2021  
-
----
-
-## 💪 Strengths
-
-- Quick adaptation to new technologies and environments  
-- Strong verbal and written communication  
-- Problem-solving mindset
-
----
-
-## 🌐 More Links
-
-- 🔗 [GitHub Profile](https://github.com/justtkajuu)  
-- 🔗 [Live Productivity App](https://myproductivitydashboard.netlify.app)  
-- 🔗 [Marketing Page Repo](https://github.com/justtkajuu/Marketing-Landing-Page)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
